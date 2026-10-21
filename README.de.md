@@ -1,84 +1,97 @@
-🌍 Sprachen: [🇺🇸 English](https://github.com/Dreamdancer100/GLX-Installer-Builder/blob/main/README.md) | [🇩🇪 Deutsch](https://github.com/Dreamdancer100/GLX-Installer-Builder/blob/main/README.de.md)
+🌍 Sprachen: [🇺🇸 English](README.md) | [🇩🇪 Deutsch](README.de.md)
 
 <div align="center">
 
-# 🛠️ GLX Installer Builder
+# 📦 GLX Installer Builder
 
-### Professionelle Windows-Setup-Programme für deine eigene Software bauen 📦
+### Aus deinem Programmordner wird eine fertige Setup.exe – ohne eine Zeile Code 🛠️
 
-*Ein visueller Editor mit fertigen Vorlagen, Live-Vorschau, 12 Sprachen, Deinstallation, Reparatur und Update-Funktion.* ⚡
+*Windows-Setups mit echtem Deinstallierer, zwölf Sprachen und deinem eigenen Design. Alles mit der Maus eingestellt.* ⚡
 
-![Windows](https://img.shields.io/badge/Windows-Setup%20Builder-0078D4?logo=windows&logoColor=white)
-![Sprachen](https://img.shields.io/badge/Sprachen-12-2e7d32)
-![Testversion](https://img.shields.io/badge/Testversion-7%20Tage-orange)
-![Erstellt von](https://img.shields.io/badge/erstellt%20von-Dreamdancer100-8b0000)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
+![Version](https://img.shields.io/badge/Version-2.2.9-2ea44f)
+![Sprachen](https://img.shields.io/badge/Sprachen-12-orange)
+![Testversion](https://img.shields.io/badge/Testversion-7%20Tage-yellow)
+![Made by](https://img.shields.io/badge/made%20by-Dreamdancer100-8b0000)
 
 </div>
 
 ---
 
-> 🌐 **Sprach-Hinweis:** Das Programm und die damit gebauten Setups unterstützen 12 Sprachen, mit Sprachflaggen zur einfachen Auswahl.
+## ⬇️ Download
+
+👉 **[Neueste Version bei den Releases](../../releases/latest)** – Setup herunterladen, installieren, 7 Tage kostenlos testen.
+
+---
+
+## 📸 Übersicht & Screenshots
+
+### 1️⃣ Der Builder
+
+<!-- Bild: builder.png -->
+
+### 2️⃣ Das fertige Setup
+
+<!-- Bild: setup.png -->
+
+### 3️⃣ Der Deinstallierer
+
+<!-- Bild: deinstallierer.png -->
 
 ---
 
 ## ✨ Funktionen
 
-- 🎨 **Fertige Vorlagen:** Installer-Design auswählen, alle in 12 Sprachen verfügbar.
-- 👀 **Live-Vorschau:** Visueller Editor, der jede Seite des Installers schon beim Bearbeiten zeigt.
-- 🗑️ **Deinstallation und Reparatur:** In jedem gebauten Setup enthalten.
-- 🔄 **Update-Funktion:** Deine eigenen Programme können ihren Kunden Updates anbieten.
-- 📜 **Lizenztext und README je Sprache:** Werden bei der Installation angezeigt.
-- 🎯 **Farbwähler:** Palette mit bis zu fünf Farben und Kopier-Knopf, passend zu deiner Marke.
-- 🏠 **Installation nach Program Files:** Das erzeugte Setup sieht modern aus und installiert wie ein normales Windows-Programm.
+- 📦 **Ein Setup, eine Datei:** Dein Kunde lädt eine EXE herunter – kein Ordner, kein Archiv.
+- 🧹 **Echter Deinstallierer:** Steht in „Apps & Features“ und räumt Programmordner, Verknüpfungen, Startmenü und Registry auf. Die Daten deines Kunden bleiben, solange er den Haken nicht selbst setzt.
+- 🌐 **Zwölf Sprachen, fertig übersetzt:** Deutsch, Englisch, Französisch, Italienisch, Spanisch, Dänisch, Schwedisch, Niederländisch, Polnisch, Russisch, Österreichisch, Schweizerisch – Auswahl mit Flagge.
+- 🎨 **Dein Design:** Farben, Hintergrundbild, Ladebalken, Fensterknöpfe, Banner je Seite, dein Logo. Jeder Knopf einzeln einstellbar, auch für den Hover-Zustand.
+- 🧩 **Du bestimmst, was dasteht:** Seiten an- und abschalten, umsortieren, eigene Seiten anlegen. Texte, Bilder, Knöpfe, Textboxen und Checkboxen frei mit der Maus platzieren.
+- 📝 **Readme-Editor je Sprache:** Mit Formatierung und fertigem Mustertext in allen zwölf Sprachen. Produktname, Version, Datum, E-Mail und Website setzt der Builder selbst ein.
+- 📁 **Du entscheidest, was installiert wird:** Dateien, Zielordner, Verknüpfungen (Desktop, Startmenü, Autostart), Dateiendungen mit deinem Symbol.
+- 🪶 **Schlanke Setups:** Keine 140 MB Laufzeit in jedem Setup – der Builder benutzt, was in Windows ohnehin steckt.
+- 🎁 **Erweiterungen:** Symbol-Bibliothek mit über 476 Symbolen, Flaggen-Bibliothek mit 249 Länderflaggen.
+- 💶 **Einmal zahlen:** Keine Gebühr je Setup, keine Begrenzung, und kein Hinweis auf uns in deinem fertigen Setup.
 
----
+### 🧑‍💻 Entwicklerlizenz
 
-## 🚀 So funktioniert es
+Alles aus der Standardversion, dazu:
 
-1. 🎨 **Vorlage wählen.** Such dir eines der fertigen Installer-Designs aus.
-2. 📁 **Dateien hinzufügen.** Füge die Programmdateien deiner Software hinzu.
-3. 🏠 **Installationsordner festlegen.** Dein Programm wird nach Program Files installiert, auf Wunsch mit Verknüpfungen.
-4. 🌍 **Sprachen wählen.** Bis zu 12 Sprachen, der Nutzer wählt seine per Flagge.
-5. 📜 **Lizenztext und README eintragen.** Je Sprache, sie werden bei der Installation angezeigt.
-6. 🎯 **An deine Marke anpassen.** Mit Farbwähler und Live-Vorschau, bis jede Seite stimmt.
-7. 📦 **Bauen.** Ein Klick erzeugt dein fertiges Setup-Programm.
-
----
-
-## 🧰 Das bekommen deine Kunden
-
-- ✅ Ein modernes Setup mit Flaggen zur Sprachauswahl
-- ✅ Ein kleiner, eigener **Uninstaller**
-- ✅ Eine **Reparatur-Funktion**, falls Dateien fehlen
-- ✅ Dein **Lizenztext** und deine **README** in der gewählten Sprache
-- ✅ Auf Wunsch **Updates** für dein Programm
-
----
-
-## ❓ Fragen
-
-**Ist es kostenlos?** Du kannst es 7 Tage testen. Danach brauchst du eine Lizenz, siehe [glx-tools.de](https://glx-tools.de).
-
-**Warum zeigt Windows "Herausgeber unbekannt"?** Das Programm ist nicht mit einem bezahlten Zertifikat signiert. Die Meldung heißt nicht, dass mit der Datei etwas nicht stimmt.
-
-**Wohin installiert das Setup?** Immer nach Program Files, nicht ins Benutzerprofil.
+- 🔄 **Update-Betrieb:** Das Setup erkennt eine vorhandene Installation und legt die neue Fassung darüber – Einstellungen bleiben.
+- 🔧 **Reparatur-Betrieb:** „Ändern“ in „Apps & Features“ stellt alle Programmdateien wieder her, ohne Kundendaten anzufassen.
+- 🎁 **Alle Erweiterungen inbegriffen**, für die Laufzeit der Lizenz.
 
 ---
 
 ## 🧩 Voraussetzungen
 
-- 🪟 Windows
+- 🪟 Windows 10 oder Windows 11 (64 Bit)
 
-## 📥 Download und Testversion
+---
 
-1. Öffne die Seite [Releases](https://github.com/Dreamdancer100/GLX-Installer-Builder/releases).
-2. Lade die neueste Setup-Datei herunter und starte sie.
-3. Die Testversion läuft **7 Tage**. Lizenz und weitere Infos: [glx-tools.de](https://glx-tools.de)
+## 🚀 Installation
 
-> ⚠️ Das Programm ist nicht signiert. Windows zeigt deshalb beim Start eventuell "Herausgeber unbekannt" an.
+1. Die Datei `GLX Installer Builder.exe` aus den **[Releases](../../releases/latest)** herunterladen.
+2. Starten und den Anweisungen folgen.
+3. Der Builder läuft 7 Tage als Testversion. Danach Lizenz über die Website freischalten.
+
+---
+
+## 🔗 Mehr zum Programm
+
+👉 **[GLX Installer Builder auf gordonx.de](https://gordonx.de/)** – Beschreibung, Lizenzen und Kauf.
 
 ---
 
 ## 📄 Lizenz
 
-Alle Rechte vorbehalten. In diesem Repository liegen nur die Beschreibung und die Downloads, kein Quellcode.
+Proprietäre Software. © Dreamdancer100 / GLX Tools – alle Rechte vorbehalten.
+Dieses Repository enthält keinen Quelltext, nur Beschreibung und Downloads.
+
+---
+
+<div align="center">
+
+Mit ❤️ gemacht von **Dreamdancer100**
+
+</div>
