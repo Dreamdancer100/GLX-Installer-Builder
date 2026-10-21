@@ -79,13 +79,13 @@ Everything from the standard version, plus:
 
 ## 🔗 More about this program
 
-👉 **[GLX Installer Builder on glx-tools.de](https://glx-tools.de/)** – description, licenses and purchase.
+👉 **[GLX Installer Builder on glx-tools.de](https://glx-tools.de/product/glx-installer-builder/)** – description, licenses and purchase.
 
 ---
 
 ## 📄 License
 
-Proprietary software. © Dreamdancer100 / GLX Tools – all rights reserved.
+Proprietary software. © GLX Tools – all rights reserved.
 This repository contains no source code, only the description and downloads.
 
 ---
