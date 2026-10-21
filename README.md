@@ -1,84 +1,97 @@
-🌍 Languages: [🇺🇸 English](https://github.com/Dreamdancer100/GLX-Installer-Builder/blob/main/README.md) | [🇩🇪 Deutsch](https://github.com/Dreamdancer100/GLX-Installer-Builder/blob/main/README.de.md)
+🌍 Languages: [🇺🇸 English](README.md) | [🇩🇪 Deutsch](README.de.md)
 
 <div align="center">
 
-# 🛠️ GLX Installer Builder
+# 📦 GLX Installer Builder
 
-### Build professional Windows setup programs for your own software 📦
+### Turn your program folder into a finished Setup.exe – without writing a line of code 🛠️
 
-*A visual editor with ready-made templates, live preview, 12 languages, uninstaller, repair and update function.* ⚡
+*Windows setups with a real uninstaller, twelve languages and your own design. Everything set up with the mouse.* ⚡
 
-![Windows](https://img.shields.io/badge/Windows-Setup%20Builder-0078D4?logo=windows&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-12-2e7d32)
-![Trial](https://img.shields.io/badge/Trial-7%20days-orange)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
+![Version](https://img.shields.io/badge/Version-2.2.9-2ea44f)
+![Languages](https://img.shields.io/badge/Languages-12-orange)
+![Trial](https://img.shields.io/badge/Trial-7%20days-yellow)
 ![Made by](https://img.shields.io/badge/made%20by-Dreamdancer100-8b0000)
 
 </div>
 
 ---
 
-> 🌐 **Language note:** The program and the setups it creates support 12 languages, with language flags for easy selection.
+## ⬇️ Download
+
+👉 **[Latest version in the Releases](../../releases/latest)** – download the setup, install it, try it free for 7 days.
+
+---
+
+## 📸 Overview & Screenshots
+
+### 1️⃣ The Builder
+
+<!-- image: builder.png -->
+
+### 2️⃣ The finished setup
+
+<!-- image: setup.png -->
+
+### 3️⃣ The uninstaller
+
+<!-- image: deinstallierer.png -->
 
 ---
 
 ## ✨ Features
 
-- 🎨 **Ready-made templates:** Pick an installer design, all available in 12 languages.
-- 👀 **Live preview:** Visual editor that shows every page of the installer while you edit.
-- 🗑️ **Uninstaller and repair:** Included in every setup you build.
-- 🔄 **Update function:** Your own programs can offer updates to your customers.
-- 📜 **Licence text and README per language:** Shown to the user during the installation.
-- 🎯 **Colour picker:** Palette of up to five colours with a copy button, to match your brand.
-- 🏠 **Installs to Program Files:** The created setup looks modern and installs like a regular Windows program.
+- 📦 **One setup, one file:** Your customer downloads a single EXE – no folder, no archive.
+- 🧹 **A real uninstaller:** Listed in “Apps & Features”, removes program folder, shortcuts, Start menu entry and registry. Your customer's data stays unless they tick the box themselves.
+- 🌐 **Twelve languages, fully translated:** German, English, French, Italian, Spanish, Danish, Swedish, Dutch, Polish, Russian, Austrian, Swiss – chosen with a flag.
+- 🎨 **Your design:** Colors, background image, progress bar, window buttons, banner per page, your logo. Every button configurable on its own, including its hover state.
+- 🧩 **You decide what is shown:** Switch pages on and off, reorder them, add your own. Place texts, images, buttons, text boxes and checkboxes freely with the mouse.
+- 📝 **Readme editor per language:** With formatting and a ready-made sample text in all twelve languages. Product name, version, date, e-mail and website are filled in automatically.
+- 📁 **You decide what gets installed:** Files, target folder, shortcuts (desktop, Start menu, autostart), file associations with your icon.
+- 🪶 **Lean setups:** No 140 MB runtime inside every setup – the builder uses what Windows already has.
+- 🎁 **Extensions:** Icon library with more than 476 icons, flag library with 249 country flags.
+- 💶 **Pay once:** No fee per setup, no limit, and no reference to us in your finished setup.
+
+### 🧑‍💻 Developer license
+
+Everything from the standard version, plus:
+
+- 🔄 **Update mode:** The setup detects an existing installation and installs the new version over it – settings are kept.
+- 🔧 **Repair mode:** “Modify” in “Apps & Features” restores all program files without touching customer data.
+- 🎁 **All extensions included** for the term of the license.
 
 ---
 
-## 🚀 How it works
+## 🧩 Requirements
 
-1. 🎨 **Pick a template.** Choose one of the ready-made installer designs.
-2. 📁 **Add your files.** Add the program files of your software.
-3. 🏠 **Set the install folder.** Your program is installed to Program Files, with shortcuts if you want them.
-4. 🌍 **Choose the languages.** Up to 12 languages, the user picks theirs with a flag.
-5. 📜 **Add licence text and README.** One per language, shown during the installation.
-6. 🎯 **Match your brand.** Use the colour picker and the live preview until every page looks right.
-7. 📦 **Build.** One click creates your finished setup program.
+- 🪟 Windows 10 or Windows 11 (64-bit)
 
 ---
 
-## 🧰 What your customers get
+## 🚀 Installation
 
-- ✅ A modern setup with flags for the language selection
-- ✅ A small, separate **uninstaller**
-- ✅ A **repair** function if files go missing
-- ✅ Your **licence text** and **README** in the language they chose
-- ✅ Optional **updates** for your program
+1. Download `GLX Installer Builder.exe` from the **[Releases](../../releases/latest)**.
+2. Run it and follow the instructions.
+3. The builder runs as a 7-day trial. After that, activate a license via the website.
 
 ---
 
-## ❓ Questions
+## 🔗 More about this program
 
-**Is it free?** You can try it for 7 days. After that you need a licence, see [glx-tools.de](https://glx-tools.de).
-
-**Why does Windows show "Unknown publisher"?** The program is not signed with a paid certificate. The warning does not mean that anything is wrong with the file.
-
-**Where does the setup install to?** Always to Program Files, not into the user profile.
+👉 **[GLX Installer Builder on gordonx.de](https://gordonx.de/)** – description, licenses and purchase.
 
 ---
 
-## 🧩 Prerequisites
+## 📄 License
 
-- 🪟 Windows
-
-## 📥 Download and trial
-
-1. Open the [Releases](https://github.com/Dreamdancer100/GLX-Installer-Builder/releases) page.
-2. Download the latest setup file and run it.
-3. The trial version runs for **7 days**. Licence and more information: [glx-tools.de](https://glx-tools.de)
-
-> ⚠️ The program is not code-signed. Windows may therefore show "Unknown publisher" at startup.
+Proprietary software. © Dreamdancer100 / GLX Tools – all rights reserved.
+This repository contains no source code, only the description and downloads.
 
 ---
 
-## 📄 Licence
+<div align="center">
 
-All rights reserved. This repository contains only the description and the downloads, no source code.
+Made with ❤️ by **Dreamdancer100**
+
+</div>
