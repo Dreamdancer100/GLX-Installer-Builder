@@ -33,6 +33,38 @@
 
 ---
 
+## 🚀 So funktioniert es
+
+1. 🎨 **Vorlage wählen.** Such dir eines der fertigen Installer-Designs aus.
+2. 📁 **Dateien hinzufügen.** Füge die Programmdateien deiner Software hinzu.
+3. 🏠 **Installationsordner festlegen.** Dein Programm wird nach Program Files installiert, auf Wunsch mit Verknüpfungen.
+4. 🌍 **Sprachen wählen.** Bis zu 12 Sprachen, der Nutzer wählt seine per Flagge.
+5. 📜 **Lizenztext und README eintragen.** Je Sprache, sie werden bei der Installation angezeigt.
+6. 🎯 **An deine Marke anpassen.** Mit Farbwähler und Live-Vorschau, bis jede Seite stimmt.
+7. 📦 **Bauen.** Ein Klick erzeugt dein fertiges Setup-Programm.
+
+---
+
+## 🧰 Das bekommen deine Kunden
+
+- ✅ Ein modernes Setup mit Flaggen zur Sprachauswahl
+- ✅ Ein kleiner, eigener **Uninstaller**
+- ✅ Eine **Reparatur-Funktion**, falls Dateien fehlen
+- ✅ Dein **Lizenztext** und deine **README** in der gewählten Sprache
+- ✅ Auf Wunsch **Updates** für dein Programm
+
+---
+
+## ❓ Fragen
+
+**Ist es kostenlos?** Du kannst es 7 Tage testen. Danach brauchst du eine Lizenz, siehe [glx-tools.de](https://glx-tools.de).
+
+**Warum zeigt Windows "Herausgeber unbekannt"?** Das Programm ist nicht mit einem bezahlten Zertifikat signiert. Die Meldung heißt nicht, dass mit der Datei etwas nicht stimmt.
+
+**Wohin installiert das Setup?** Immer nach Program Files, nicht ins Benutzerprofil.
+
+---
+
 ## 🧩 Voraussetzungen
 
 - 🪟 Windows

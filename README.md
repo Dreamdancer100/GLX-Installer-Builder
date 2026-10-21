@@ -33,6 +33,38 @@
 
 ---
 
+## 🚀 How it works
+
+1. 🎨 **Pick a template.** Choose one of the ready-made installer designs.
+2. 📁 **Add your files.** Add the program files of your software.
+3. 🏠 **Set the install folder.** Your program is installed to Program Files, with shortcuts if you want them.
+4. 🌍 **Choose the languages.** Up to 12 languages, the user picks theirs with a flag.
+5. 📜 **Add licence text and README.** One per language, shown during the installation.
+6. 🎯 **Match your brand.** Use the colour picker and the live preview until every page looks right.
+7. 📦 **Build.** One click creates your finished setup program.
+
+---
+
+## 🧰 What your customers get
+
+- ✅ A modern setup with flags for the language selection
+- ✅ A small, separate **uninstaller**
+- ✅ A **repair** function if files go missing
+- ✅ Your **licence text** and **README** in the language they chose
+- ✅ Optional **updates** for your program
+
+---
+
+## ❓ Questions
+
+**Is it free?** You can try it for 7 days. After that you need a licence, see [glx-tools.de](https://glx-tools.de).
+
+**Why does Windows show "Unknown publisher"?** The program is not signed with a paid certificate. The warning does not mean that anything is wrong with the file.
+
+**Where does the setup install to?** Always to Program Files, not into the user profile.
+
+---
+
 ## 🧩 Prerequisites
 
 - 🪟 Windows
