@@ -79,7 +79,7 @@ Alles aus der Standardversion, dazu:
 
 ## 🔗 Mehr zum Programm
 
-👉 **[GLX Installer Builder auf gordonx.de](https://gordonx.de/)** – Beschreibung, Lizenzen und Kauf.
+👉 **[GLX Installer Builder auf glx-tools.de](https://glx-tools.de/)** – Beschreibung, Lizenzen und Kauf.
 
 ---
 
