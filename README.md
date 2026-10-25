@@ -4,6 +4,14 @@
 
 # 📦 GLX Installer Builder
 
+Unique Selling Points:
+- 12-language installation wizard & 12-language setup preview window
+- Template files (.glx) provided in all 12 languages
+- Readme template files provided in all 12 languages
+- Custom, borderless window design with visual effects
+- Option to define and customize your own logo
+- Design the installer and uninstaller exactly as you wish
+
 ### Turn your program folder into a finished Setup.exe – without writing a line of code 🛠️
 
 *Windows setups with a real uninstaller, twelve languages and your own design. Everything set up with the mouse.* ⚡
