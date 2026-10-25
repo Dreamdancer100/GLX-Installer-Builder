@@ -4,6 +4,14 @@
 
 # 📦 GLX Installer Builder
 
+Alleinstellungsmerkmale:
+- 12 Sprachige Programführung & 12 sprachige Setup Vorschaufenster
+- Vorlage Dateien (.glx) in allen 12 Sprachen werden mitgeliefert
+- Readme Vorlage Datein in allen 12 Sprachen werden mitgeliefert
+- Eigenes Rahmenloses Fenster Design mit Effekten
+- Eigenes Logo bestimmen und Anpassen
+- Gestalte den Installer und Uninstaller nach deinen Wünschen
+
 ### Aus deinem Programmordner wird eine fertige Setup.exe – ohne eine Zeile Code 🛠️
 
 *Windows-Setups mit echtem Deinstallierer, zwölf Sprachen und deinem eigenen Design. Alles mit der Maus eingestellt.* ⚡
