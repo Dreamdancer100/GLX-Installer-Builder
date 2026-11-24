@@ -32,6 +32,26 @@ Alleinstellungsmerkmale:
 
 ---
 
+## 📖 Über GLX Installer Builder
+
+### Vom Programmordner zur fertigen Setup.exe
+
+GLX Installer Builder macht aus deinem Programmordner eine fertige Setup.exe, ohne eine Zeile Code. Vorlage wählen, Dateien hinzufügen, Installationsordner, Verknüpfungen und Dateizuordnungen festlegen und ein Setup aus einer Datei bauen, mit echtem Deinstallationsprogramm unter Apps & Features.
+
+### Zwölf Sprachen
+
+Jedes Setup spricht zwölf vollständig übersetzte Sprachen, wählbar per Flagge, und zeigt deinen Lizenztext und eine Liesmich mit eingebautem Editor und Beispieltexten.
+
+### Gestaltet, wie du willst
+
+Farben, Hintergrundbilder, Fortschrittsbalken, Fenster-Buttons, Banner und dein Logo. Seiten schaltest du ein, sortierst sie um oder fügst eigene hinzu, Elemente platzierst du frei mit der Maus. Eine Live-Vorschau zeigt jede Setup-Seite schon beim Bearbeiten.
+
+### Schlank und fair
+
+Setups bleiben schlank, weil keine zusätzliche Laufzeitumgebung mitgepackt wird. Die Entwickler-Lizenz bringt Update- und Reparatur-Modus dazu. Einmal zahlen, keine Gebühr pro Setup und kein Hinweis auf uns in deinem Setup. 7 Tage kostenlos testen.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Seiten-Editor mit Live-Vorschau

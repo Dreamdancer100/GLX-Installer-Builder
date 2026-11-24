@@ -32,6 +32,26 @@ Unique Selling Points:
 
 ---
 
+## 📖 About GLX Installer Builder
+
+### From program folder to finished Setup.exe
+
+GLX Installer Builder turns your program folder into a finished Setup.exe without writing a line of code. Pick a ready-made template, add your files, choose install folder, shortcuts and file associations, and build a single-file setup with a real uninstaller that appears in Apps & Features.
+
+### Twelve languages
+
+Every setup speaks twelve fully translated languages, chosen with a flag, and shows your licence text and a readme with a built-in editor and sample texts.
+
+### Designed your way
+
+Colours, background images, progress bar, window buttons, banners and your logo. Switch pages on, reorder them or add your own, and place elements freely with the mouse. A live preview shows every installer page while you edit.
+
+### Lean and fair
+
+Setups stay lean because no extra runtime is packed in. The developer licence adds update and repair modes. Pay once, no fee per setup and no reference to us in your setup. Free 7-day trial.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Page editor with live preview
