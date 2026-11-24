@@ -32,19 +32,31 @@ Alleinstellungsmerkmale:
 
 ---
 
-## 📸 Übersicht & Screenshots
+## 📸 Überblick & Screenshots
 
-### 1️⃣ Der Builder
+### 1️⃣ Seiten-Editor mit Live-Vorschau
 
-<!-- Bild: builder.png -->
+<p align="center"><img src="screenshots/01-page-editor.jpg" alt="Seiten-Editor mit Live-Vorschau" width="850"></p>
 
-### 2️⃣ Das fertige Setup
+### 2️⃣ Projekteinstellungen
 
-<!-- Bild: setup.png -->
+<p align="center"><img src="screenshots/02-project.jpg" alt="Projekteinstellungen" width="850"></p>
 
-### 3️⃣ Der Deinstallierer
+### 3️⃣ Bis zu zwölf Setup-Sprachen
 
-<!-- Bild: deinstallierer.png -->
+<p align="center"><img src="screenshots/03-languages.jpg" alt="Bis zu zwölf Setup-Sprachen" width="850"></p>
+
+### 4️⃣ Bauen mit Prüfliste
+
+<p align="center"><img src="screenshots/04-build-checklist.jpg" alt="Bauen mit Prüfliste" width="850"></p>
+
+### 5️⃣ Einstellungen
+
+<p align="center"><img src="screenshots/05-settings.jpg" alt="Einstellungen" width="850"></p>
+
+### 6️⃣ Das fertige Setup
+
+<p align="center"><img src="screenshots/06-finished-setup.jpg" alt="Das fertige Setup" width="850"></p>
 
 ---
 

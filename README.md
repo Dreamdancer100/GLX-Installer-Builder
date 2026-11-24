@@ -34,17 +34,29 @@ Unique Selling Points:
 
 ## 📸 Overview & Screenshots
 
-### 1️⃣ The Builder
+### 1️⃣ Page editor with live preview
 
-<!-- image: builder.png -->
+<p align="center"><img src="screenshots/01-page-editor.jpg" alt="Page editor with live preview" width="850"></p>
 
-### 2️⃣ The finished setup
+### 2️⃣ Project settings
 
-<!-- image: setup.png -->
+<p align="center"><img src="screenshots/02-project.jpg" alt="Project settings" width="850"></p>
 
-### 3️⃣ The uninstaller
+### 3️⃣ Up to twelve setup languages
 
-<!-- image: deinstallierer.png -->
+<p align="center"><img src="screenshots/03-languages.jpg" alt="Up to twelve setup languages" width="850"></p>
+
+### 4️⃣ Build with checklist
+
+<p align="center"><img src="screenshots/04-build-checklist.jpg" alt="Build with checklist" width="850"></p>
+
+### 5️⃣ Settings
+
+<p align="center"><img src="screenshots/05-settings.jpg" alt="Settings" width="850"></p>
+
+### 6️⃣ The finished setup
+
+<p align="center"><img src="screenshots/06-finished-setup.jpg" alt="The finished setup" width="850"></p>
 
 ---
 
